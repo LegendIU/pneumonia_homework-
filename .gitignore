@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data and training outputs
+data/
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+*.onnx
+
+# Local archives and generated submissions
+*.zip
+*.tar
+*.tar.gz
+*.rar
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
